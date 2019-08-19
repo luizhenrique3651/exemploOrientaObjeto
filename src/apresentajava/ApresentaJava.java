@@ -86,6 +86,10 @@ public class ApresentaJava {
         
         }
         
+        }else{
+        
+        JOptionPane.showMessageDialog(null, "DIGITE UM VEÍCULO QUE SEJA OU CARRO, OU MOTO!!!");
+                main(args);
         }
         
         
