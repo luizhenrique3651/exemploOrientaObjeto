@@ -16,13 +16,11 @@ public class Carro extends Veículo{
     double tamanhoMala;
     String tracao;
     String cambio;
-    
-    
-    
-    
-    
     boolean carroLotado;
     boolean malaCheia;
+    
+    
+    
     
     public void drift(){
        JOptionPane.showMessageDialog(null, "finge que aqui tem uma sonoplastia de drift.");
@@ -39,6 +37,7 @@ public class Carro extends Veículo{
          
     
     }
+    
     
     public void levarAsTralhas(){
            
